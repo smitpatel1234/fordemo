@@ -1,6 +1,3 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 not you smit 
 
-=======
->>>>>>> parent of a0c5ee0 (in hi file change is occered in branch)
